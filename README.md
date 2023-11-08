@@ -1,1 +1,3 @@
-# repo_cicd_git
+Simple Maven Project
+
+test
